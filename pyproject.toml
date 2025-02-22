@@ -12,5 +12,5 @@ mypy_path = "src"
 ignore_missing_imports = true
 
 [tool.poetry]
-name = "mongo-db-automation" 
+name = "sivasakthi03-mongo-db-automation" 
 version = "0.0.3"
