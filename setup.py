@@ -7,8 +7,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.3"
 REPO_NAME = "DBconnector"
-PKG_NAME= "mongo-db-automation"
-AUTHOR_USER_NAME = "sivasakthi"
+PKG_NAME= "sivasakthi03-mongo-db-automation"
+AUTHOR_USER_NAME = "sivasakthi03"
 AUTHOR_EMAIL = "murugansivasakthi22@gmail.com"
 
 setup(
